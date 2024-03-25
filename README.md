@@ -1,2 +1,2 @@
 # READ ME
- Details
+ Creating a basic city builder with zoning, roads and manually placed buildings!
